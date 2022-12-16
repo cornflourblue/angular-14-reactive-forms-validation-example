@@ -2,4 +2,6 @@
 
 Angular 14 - Reactive Forms Validation Example
 
-Documentation coming soon!!
+Documentation at https://jasonwatmore.com/post/2022/11/18/angular-14-reactive-forms-validation-example
+
+En Español en https://jasonwatmore.es/post/2022/11/18/angular-14-ejemplo-de-validacion-de-formularios-reactivos-reactive-forms
